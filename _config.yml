@@ -5,6 +5,7 @@ title: Vivek Prasad Resume
 #url: 'http://webjeda.com'
 url: ''
 baseurl: '/online-cv' #change it according to your repository name
+description: Vivek Prasad Resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 
