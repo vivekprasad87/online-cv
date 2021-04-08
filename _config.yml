@@ -2,8 +2,9 @@
 
 # Site Settings
 title: Vivek Prasad Resume
-url: 'http://webjeda.com'
-baseurl: 'vivekprasad87.github.io' #change it according to your repository name
+#url: 'http://webjeda.com'
+url: ''
+baseurl: '/vivekprasad87.github.io' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 
