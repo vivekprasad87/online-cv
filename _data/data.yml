@@ -160,17 +160,40 @@ experiences:
           -	Assisted and supported the team in achieving the sprint goals. 
           -	Mentoring junior team members and giving knowledge transfers for the newcomers to the team. 
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Test Lead 
+      time: 2013 - 2015
+      company: <b><a href="https://www.ytl.com/">Xchanging YTL, Malaysia, Kuala Lumpur </a></b>
+      details: |          
+          -	Lead the team of 5 testers for effective functional test and to maintain an effective supply-chain network. 
+          -	Good knowledge with automation scripting on Selenium for web testing framework. 
+          -	Created test cases and test plans for the web-based client tests. 
+          -	Coordinated with on-site team for daily test progress and status reports. 
+          -	Trained new team members on the web testing and their responsibilities. 
+          -	Assited off-shore team with queries and guidance for the test. 
+          -	Set up test environment for the web-based testing.
+          -	Qualified and suppored FrogAsia on their new release of builds.
+          
+    - role: Senior Software Engineer  
+      time: 2011 - 2013
+      company: <b><a href="https://www.lenovo.com/jp/ja/">Xchanging Lenovo, Japan </a></b>
+      details: |          
+          -	Managed off-shore and ODM teams with test process tracking and lead among different locations of testing.
+          -	Coordinated with owner for each component and planning for the test accordingly to the test teams. 
+          -	Qualified products on a timely basis so as to maintain an effective role in Lenovo’s supply-chain network
+          -	Managed and coordinated day to day team test functions with the client’s off-shore unit and implementing stringent process control to satisfy the client’s demand and timeline in connection to the product releases.
+          -	Hands-on experience on the complete life cycle of the products from scratch to complete deployments. 
+          -	Testing the Lenovo developed applications and qualified for the new products line-up
+          -	Gained immense knowledge of being part of product entry, exit and review meetings for every product.
+          
+    - role: Software Engineer
+      time: 2009 - 2011
+      company: <b><a href="https://www.lenovo.com/jp/ja/">Xchanging Lenovo, Japan </a></b>
+      details: |          
+          -	Experienced in Software quality testing and development for Lenovo ThinkPad’s covering driver level implementations in Network and Basic (BIOS) teams for Microsoft Operating systems & Linux based platforms
+          -	Managing, designing and troubleshooting networks and checking their reliability on ThinkPad’s according relevant networking standards and technologies in order for continual product development
+          -	Qualifying products on a timely basis so as to maintain an effective role in Lenovo’s supply-chain network
+          -	Managing and coordinating day to day network test functions with the client’s onshore unit and implementing stringent process control to satisfy the client’s demand and timeline in connection to the product releases          
+        
 projects:
     title: Projects
     intro: >
