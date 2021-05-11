@@ -51,7 +51,7 @@ career-profile:
       -	ISTQB Certified Test manager with over 12+ years of experience in both automation and manual testing.     
       -	Currently heading test practices in IAM team which is deployed and used across company-wide Business Units. 
       -	Huge experience in leading test team for 6+ years with management skills and technical knowledge on SDLC processes. 
-      -	Certifications: 
+      -	Certifications: <br>
       	ISTQB Certified Test Manager <br>
       	Professional Scrum Master (PSM) <br>
       	DEVOPS Certified Architect <br>
@@ -89,9 +89,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MIT in Computer Science 
+      university: at James Cook University (JCU), Singapore
+      time: 2008 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -100,9 +100,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.Tech in Information Technology
+      university: Anna University
+      time: 2004 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
