@@ -84,7 +84,7 @@ career-profile:
       
 education:
     - degree: MIT in Computer Science 
-      university: at James Cook University (JCU), Singapore
+      university: James Cook University (JCU), Singapore
       time: 2008 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -95,7 +95,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: B.Tech in Information Technology
-      university: Anna University
+      university: Anna University, India
       time: 2004 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
