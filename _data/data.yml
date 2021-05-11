@@ -110,56 +110,55 @@ experiences:
       time: 2018 - Present
       company: <a href="https://www.aia.com.my/en/index.html">AIA</a> - Malaysia, Kuala Lumpur
       details: |
-        -	Worked on SailPoint application to identity Lifecycle management, Group provisioning & Application access. 
-        -	OKTA/CA-SSO for Single Sign On (SSO), Performed multiple POC’s in bringing in OKTA into AIA. 
-        -	First person to join AIA for testing and had setup the team from scratch. 
-        -	Recruited 2 test leads to manage three projects by vendors. (Identity & Access Management).
-        -	Led a Test team of 12 members from Vendor team and decision on the roles/responsibilities/activities – fill this sentence
-        -	Setup QA framework, processes, test strategy and test plan for the whole project. 
-        -	Defined burn-down expectations for test execution. monitored test progress and flagged risks to management. 
-        -	Prepared test estimates, Work Breakdown Structure, and Test-metrics across test phases. 
-        -	Complete control over SIT and UAT testing and had setup environments and testing across 19 locations in AIA.
-        -	Lead and coordinated Production deployment test activities (UVT) with support team and gathered signoff’s. 
-        -	Integration of AD, Workday, PeopleSoft and other IAM related applications. 
-        -	UAT test cases preparation (end-user perspective), coordination with all BU’s and running end-to-end. 
-        -	Prepared UAT briefing decks and provided test scope walkthroughs to end-users for User Acceptance Testing. 
-        -	Prepare completion report for stakeholders and management to review results and get sign-off on each release. 
-        -	Overlooked the projects where vendor team performs the SIT testing and other testing internally.  
-        -	Had setup JIRA and BitBucket tools for code check-in and project management activities. 
-        -	Involved in test cases, scenario’s reviews prepared by Vendor team.
-        -	End-to-End project/test tracking activities on daily basis to confirm project runs smoothly. 
-        -	Created an in-house team to locally manage projects after phase-2 activities. 
-        -	Coached Agile to the team and assisted everyone on the team to switch to Agile.
-        -	Started running 3 weeks sprint and closely working with vendor in making sure process is followed.
-        -	Introduced Performance testing using JMeter to measure UI performance for each release. 
-        -	Introduced Selenium automation to automate smoke testing and partial regression testing using BDD framework. 
-        -	Trained new team members and brought them up to speed. 
+          -	Worked on SailPoint application to identity Lifecycle management, Group provisioning & Application access. 
+          -	OKTA/CA-SSO for Single Sign On (SSO), Performed multiple POC’s in bringing in OKTA into AIA. 
+          -	First person to join AIA for testing and had setup the team from scratch. 
+          -	Recruited 2 test leads to manage three projects by vendors. (Identity & Access Management).
+          -	Led a Test team of 12 members from Vendor team and decision on the roles/responsibilities/activities – fill this sentence
+          -	Setup QA framework, processes, test strategy and test plan for the whole project. 
+          -	Defined burn-down expectations for test execution. monitored test progress and flagged risks to management. 
+          -	Prepared test estimates, Work Breakdown Structure, and Test-metrics across test phases. 
+          -	Complete control over SIT and UAT testing and had setup environments and testing across 19 locations in AIA.
+          -	Lead and coordinated Production deployment test activities (UVT) with support team and gathered signoff’s. 
+          -	Integration of AD, Workday, PeopleSoft and other IAM related applications. 
+          -	UAT test cases preparation (end-user perspective), coordination with all BU’s and running end-to-end. 
+          -	Prepared UAT briefing decks and provided test scope walkthroughs to end-users for User Acceptance Testing. 
+          -	Prepare completion report for stakeholders and management to review results and get sign-off on each release. 
+          -	Overlooked the projects where vendor team performs the SIT testing and other testing internally.  
+          -	Had setup JIRA and BitBucket tools for code check-in and project management activities. 
+          -	Involved in test cases, scenario’s reviews prepared by Vendor team.
+          -	End-to-End project/test tracking activities on daily basis to confirm project runs smoothly. 
+          -	Created an in-house team to locally manage projects after phase-2 activities. 
+          -	Coached Agile to the team and assisted everyone on the team to switch to Agile.
+          -	Started running 3 weeks sprint and closely working with vendor in making sure process is followed.
+          -	Introduced Performance testing using JMeter to measure UI performance for each release. 
+          -	Introduced Selenium automation to automate smoke testing and partial regression testing using BDD framework. 
+          -	Trained new team members and brought them up to speed. 
 
     - role: Test Lead (Client: BAE Internal product- NETREVEAL)
       time: 2015 - 2018
       company: BAE systems – Malaysia, Kuala Lumpur
       details: |
-      
-        -	Lead the team of 8 testers and trackied their day-to-day activities and provided guidance and monitoring. 
-        -	Involved from the scratch of the product development from estimation stage to release. 
-        -	Created automated scripts using Selenium and adding them to CI for nightly builds. 
-        -	Deployed Jenkins jobs and ran them as part of CI nightly builds. 
-        -	Good Knowledge in creating GitHub repositories and working on docker images. 
-        -	Drawing up processes and taking initiatives to covert the manual test cases to automated scripts. 
-        -	Created QA process documents like how to plan for regression testing, template for bugs, test strategy etc. 
-        -	Took ownership of the Applications from QA side and made sure the quality of deliverable. 
-        -	Led three projects (medium size) and received very good feedback from product owners and stakeholders.
-        -	Worked closely with Developers and product owners in understanding the scope for each Sprint. 
-        -	Responsible for updating the QA manager on-site on the utilization matrix and resource planning for each project. 
-        -	Arranging frequent discussions with developers & BA's for clarity on the requirements before proceeding with testing.
-        -	Responsible for deploying the build from DEV team onto QA environment using both JBOSS and WebSphere. 
-        -	Reviewing JIRA bug tickets from team members, review the test cases created and the execution report for each sprint.
-        -	Completely working on pure agile methodology (text book method)- estimation, review, (pre)planning, retrospective etc.
-        -	Have immense experience on Zypher, JIRA and Spira test management tools. 
-        -	Have created and setup new testing environment on AWS (Amazon Web Service) from scratch. 
-        -	Mentored the team and assisted them with any issues and provided solutions for some of the issues.
-        -	Assisted and supported the team in achieving the sprint goals. 
-        -	Mentoring junior team members and giving knowledge transfers for the newcomers to the team. 
+          -	Lead the team of 8 testers and trackied their day-to-day activities and provided guidance and monitoring. 
+          -	Involved from the scratch of the product development from estimation stage to release. 
+          -	Created automated scripts using Selenium and adding them to CI for nightly builds. 
+          -	Deployed Jenkins jobs and ran them as part of CI nightly builds. 
+          -	Good Knowledge in creating GitHub repositories and working on docker images. 
+          -	Drawing up processes and taking initiatives to covert the manual test cases to automated scripts. 
+          -	Created QA process documents like how to plan for regression testing, template for bugs, test strategy etc. 
+          -	Took ownership of the Applications from QA side and made sure the quality of deliverable. 
+          -	Led three projects (medium size) and received very good feedback from product owners and stakeholders.
+          -	Worked closely with Developers and product owners in understanding the scope for each Sprint. 
+          -	Responsible for updating the QA manager on-site on the utilization matrix and resource planning for each project. 
+          -	Arranging frequent discussions with developers & BA's for clarity on the requirements before proceeding with testing.
+          -	Responsible for deploying the build from DEV team onto QA environment using both JBOSS and WebSphere. 
+          -	Reviewing JIRA bug tickets from team members, review the test cases created and the execution report for each sprint.
+          -	Completely working on pure agile methodology (text book method)- estimation, review, (pre)planning, retrospective etc.
+          -	Have immense experience on Zypher, JIRA and Spira test management tools. 
+          -	Have created and setup new testing environment on AWS (Amazon Web Service) from scratch. 
+          -	Mentored the team and assisted them with any issues and provided solutions for some of the issues.
+          -	Assisted and supported the team in achieving the sprint goals. 
+          -	Mentoring junior team members and giving knowledge transfers for the newcomers to the team. 
 
     - role: UI Developer
       time: 2012 - 2014
