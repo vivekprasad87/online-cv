@@ -108,7 +108,7 @@ education:
 experiences:
     - role: Test Manager, IAM
       time: 2018 - Present
-      company: <a href="https://www.aia.com.my/en/index.html">AIA</a> - Malaysia, Kuala Lumpur
+      company: <b><a href="https://www.aia.com.my/en/index.html">AIA</a> - Malaysia, Kuala Lumpur </b>
       details: |
           -	Worked on SailPoint application to identity Lifecycle management, Group provisioning & Application access. 
           -	OKTA/CA-SSO for Single Sign On (SSO), Performed multiple POC’s in bringing in OKTA into AIA. 
@@ -137,7 +137,7 @@ experiences:
 
     - role: Test Lead 
       time: 2015 - 2018
-      company: BAE systems – Malaysia, Kuala Lumpur
+      company: <b><a href="https://www.baesystems.com/en/cybersecurity/home">BAE systems – Malaysia, Kuala Lumpur </a></b>
       details: |
           -	Lead the team of 8 testers and trackied their day-to-day activities and provided guidance and monitoring. 
           -	Involved from the scratch of the product development from estimation stage to release. 
