@@ -247,22 +247,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Selenium
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Jenkins
         level: 98%
 
-      - name: Angular
+      - name: JIRA
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Agile Methodologies
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Github, Dockers
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Linux, Unix
         level: 60%
 
 footer: >
